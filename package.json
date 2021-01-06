@@ -20,7 +20,7 @@
   },
   "license": "GPL-3.0-only",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "discord.js": "^12.1.1",
     "dotenv": "^8.2.0"
   }
