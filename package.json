@@ -14,11 +14,7 @@
     "discord",
     "rfc"
   ],
-  "author": {
-    "name": "ent3r_",
-    "url": "https://ent3r.tk"
-  },
-  "license": "GPL-3.0-only",
+  "license": "GPL-3.0-or-later",
   "dependencies": {
     "axios": "^0.19.2",
     "discord.js": "^12.1.1",
